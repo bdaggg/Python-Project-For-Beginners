@@ -1,0 +1,5 @@
+here is a qr code generator that is a good example for beginners to the python programming language. 
+you can generate the qr code by giving the url you want.
+you can also customize it for yourself by researching the pyqrcode library.
+if you do not have the pyqrcode library installed, write the following to the terminal:
+$ pip install pyqrcode
