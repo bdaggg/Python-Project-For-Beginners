@@ -1,0 +1,7 @@
+you are trying to find a hidden word in my executioner project, which is a very nice project for beginners to python,
+but you have the right to make four wrong guesses while doing so. you can also develop
+the project by researching the python random library. 
+I deliberately put some errors, one of them is that you need to solve 
+this situation in case the chances of making the correct guess increase
+if the user enters text instead of letters.
+i will share the solved version of all the errors soon.Best of luck to you

@@ -1,0 +1,4 @@
+in this project, which has two lists, names are included in the first list and surnames are included in the second list. 
+thanks to our condition operator on the bottom line, 
+we can ensure that the program stops when the combination of the first and last name we want occurs,
+it is a project suitable for a good beginner level.
