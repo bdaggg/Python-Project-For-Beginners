@@ -15,7 +15,7 @@ while lives > 0:
             character_number += 1
 
     guess_word = input("enter a latter:")
-    global_guess += guess_word
+    global_guess += guess_word[0] #ikinci asamada hata veriyor******************!!!!!!!!!***********
 
     if character_number == 0:
         print("you win")

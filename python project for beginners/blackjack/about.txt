@@ -1,0 +1,8 @@
+hello everyone, I did blackjack on this project. 
+don't let it scare you that it's a little long on the basis of a simple project. 
+I want you to read the codes from the beginning and then try writing them yourself. 
+you can look at the code when you're stuck, but know what you're doing, don't copy and paste, try to understand the logic.
+I deliberately did not complete some places, for example, in blackjack, 
+A takes both the values 1 and 11, I left it blank, it is your task to complete it. 
+it will be completed in the near future, I will upload the completed version, you can check it from there
+Best of luck to you
